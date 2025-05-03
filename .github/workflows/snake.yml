@@ -1,0 +1,20 @@
+name: Update Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Se actualiza cada día a medianoche
+  workflow_dispatch:      # Permite ejecutarlo manualmente
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Tu usuario
+          svg_path: "assets/snake.svg"  # Ruta donde se guardará el SVG
+      - name: Push to GitHub
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          commit_message: "Update snake.svg"
