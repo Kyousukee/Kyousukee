@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyousukee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyousukee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kyousukee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kyousukee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -68,6 +68,6 @@
 
 ###
 
-<p align="left">Mi experiencia abarca tanto el desarrollo Backend como el Frontend, junto con la gestión de bases de datos, lo que me permite ofrecer un enfoque completo en el ciclo de vida del software y como no puede faltar hoy en día también tengo conocimientos en desarrollo mobile complementando más mi perfil.</p>
+<p align="left">Mi experiencia abarca tanto el desarrollo Backend como el Frontend, junto con la gestión de bases de datos, lo que me permite ofrecer un enfoque completo en el ciclo de vida del software y como no puede faltar hoy en día también tengo conocimientos en desarrollo mobile complementando más mi perfil. Además, sé aprovechar herramientas de IA como Claude para potenciar mi flujo de trabajo, acelerar el desarrollo y mejorar la calidad del código.</p>
 
 ###
