@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kyousukee/Kyousukee/output/github-snake.svg)
 
 ###
 
