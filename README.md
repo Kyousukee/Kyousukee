@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/claude.svg" height="30" alt="claude logo"  />
 </div>
 
 ###
@@ -49,7 +51,7 @@
   <a href="https://www.twitch.tv/kyousukee22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="jjosemiguel.jv@gmail.com" target="_blank">
+  <a href="mailto:jjosemiguel.jv@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jose-vergara-a-1a4853236/" target="_blank">
@@ -64,7 +66,11 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Kyousukee/Kyousukee/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyousukee/Kyousukee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyousukee/Kyousukee/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Kyousukee/Kyousukee/output/github-snake.svg" />
+</picture>
 
 ###
 
