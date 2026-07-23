@@ -1,4 +1,4 @@
-<h2 align="left">Holaa 👋! Me llamo Jose Vergara y soy desarrollador de aplicaciones full stack..</h2>
+<h2 align="left">Holaa 👋! Me llamo Jose Vergara y soy desarrollador de aplicaciones fullstack..</h2>
 
 ###
 
